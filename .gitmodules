@@ -1,0 +1,6 @@
+[submodule "breakout-game"]
+	path = breakout-game
+	url = https://github.com/Josh-Ay/breakout-game.git
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = https://github.com/Josh-Ay/tic-tac-toe.git
